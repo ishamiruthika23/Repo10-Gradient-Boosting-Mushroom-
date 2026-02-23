@@ -1,4 +1,4 @@
-# 🍄 Mushroom Classification using Gradient Boosting
+# Mushroom Classification using Gradient Boosting
 
 This repository contains a Machine Learning project that uses the
 **Gradient Boosting Classifier** to predict whether a mushroom is
@@ -6,7 +6,7 @@ This repository contains a Machine Learning project that uses the
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 Mushroom classification is a classic supervised learning problem.
 In this project, Gradient Boosting is applied to improve prediction
 accuracy by combining multiple weak learners into a strong ensemble model.
@@ -15,14 +15,14 @@ The trained model is saved and used for prediction through a Python application.
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Mushroom dataset with categorical features
 - Target variable: **Edible / Poisonous**
 - Dataset is preprocessed using encoding techniques
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 1. Data loading and preprocessing  
 2. Encoding categorical variables  
 3. Train-test split  
@@ -32,12 +32,12 @@ The trained model is saved and used for prediction through a Python application.
 
 ---
 
-## 🧠 Algorithm Used
+## Algorithm Used
 - **Gradient Boosting Classifier**
 
 ---
 
-## 📊 Results
+## Results
 The Gradient Boosting model achieved high classification accuracy
 in distinguishing edible and poisonous mushrooms.
 The ensemble approach helped reduce bias and variance,
@@ -45,7 +45,7 @@ resulting in reliable predictions.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository  
 2. Navigate to the project folder  
@@ -60,7 +60,7 @@ resulting in reliable predictions.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python  
 - NumPy  
 - Pandas  
@@ -70,4 +70,11 @@ resulting in reliable predictions.
 
 ---
 
-## 📁 Repository Structure
+## 🎓 Academic Purpose
+This project was developed as part of Machine Learning coursework
+to demonstrate supervised learning and ensemble techniques
+using Gradient Boosting.
+
+---
+
+## Repository Structure
