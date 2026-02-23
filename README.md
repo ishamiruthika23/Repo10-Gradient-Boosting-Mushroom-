@@ -70,7 +70,7 @@ resulting in reliable predictions.
 
 ---
 
-## 🎓 Academic Purpose
+## Academic Purpose
 This project was developed as part of Machine Learning coursework
 to demonstrate supervised learning and ensemble techniques
 using Gradient Boosting.
